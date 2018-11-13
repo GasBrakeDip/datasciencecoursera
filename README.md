@@ -1,2 +1,2 @@
 # datasciencecoursera
-for completion of project course 1
+for completion of course project 1
